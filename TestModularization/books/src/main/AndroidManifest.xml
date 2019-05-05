@@ -1,0 +1,15 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="daily.yiyuan.com.books"
+    >
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        android:supportsRtl="true">
+        <activity
+            android:name=".BooksMainActivity"
+            android:label="@string/app_name"
+            ></activity>
+
+    </application>
+</manifest>
